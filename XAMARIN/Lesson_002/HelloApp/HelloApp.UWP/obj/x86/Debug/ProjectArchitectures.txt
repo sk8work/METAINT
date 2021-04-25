@@ -1,0 +1,1 @@
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp.UWP\HelloApp.UWP.csproj;x86

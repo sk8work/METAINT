@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Xamarin.Forms;
+
+namespace HelloApp
+{
+    public partial class MainPage : ContentPage
+    {
+        public MainPage()
+        {
+            InitializeComponent();
+
+        }
+
+        private void Press_Clicked(object sender, EventArgs e)
+        {
+            Press.Text = "I've been PRESSED!!";
+        }
+    }
+}

@@ -1,0 +1,14 @@
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\bin\Debug\netstandard2.0\HelloApp.deps.json
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\bin\Debug\netstandard2.0\HelloApp.dll
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\bin\Debug\netstandard2.0\ref\HelloApp.dll
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\bin\Debug\netstandard2.0\HelloApp.pdb
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\HelloApp.AssemblyInfoInputs.cache
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\HelloApp.AssemblyInfo.cs
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\HelloApp.csproj.CoreCompileInputs.cache
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\HelloApp.dll
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\ref\HelloApp.dll
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\HelloApp.pdb
+D:\METAINT\XAMARIN\Lesson_002\HelloApp\HelloApp\obj\Debug\netstandard2.0\HelloApp.csprojAssemblyReference.cache
