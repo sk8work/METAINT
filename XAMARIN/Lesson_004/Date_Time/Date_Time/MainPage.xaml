@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Date_Time.MainPage">
+
+    <StackLayout>
+        <Label x:Name="label" Text="Select a Date" FontSize="Medium" />
+        <DatePicker x:Name="datePicker" Format="D" DateSelected="datePicker_DateSelected">
+            <DatePicker.MinimumDate>6/01/2016</DatePicker.MinimumDate>
+            <DatePicker.MaximumDate>6/01/2050</DatePicker.MaximumDate>
+        </DatePicker>
+    </StackLayout>
+
+</ContentPage>

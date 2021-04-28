@@ -1,0 +1,14 @@
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\bin\Debug\netstandard2.0\Date_Time.deps.json
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\bin\Debug\netstandard2.0\Date_Time.dll
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\bin\Debug\netstandard2.0\ref\Date_Time.dll
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\bin\Debug\netstandard2.0\Date_Time.pdb
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\Date_Time.csprojAssemblyReference.cache
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\Date_Time.AssemblyInfoInputs.cache
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\Date_Time.AssemblyInfo.cs
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\Date_Time.csproj.CoreCompileInputs.cache
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\XamlC.stamp
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\Date_Time.dll
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\ref\Date_Time.dll
+D:\METAINT\XAMARIN\Lesson_004\Date_Time\Date_Time\obj\Debug\netstandard2.0\Date_Time.pdb
