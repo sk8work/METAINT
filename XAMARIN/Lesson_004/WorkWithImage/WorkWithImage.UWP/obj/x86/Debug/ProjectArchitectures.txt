@@ -1,0 +1,1 @@
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage.UWP\WorkWithImage.UWP.csproj;x86

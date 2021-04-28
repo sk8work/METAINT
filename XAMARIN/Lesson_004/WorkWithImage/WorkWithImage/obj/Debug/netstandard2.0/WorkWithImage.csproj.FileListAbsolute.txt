@@ -1,0 +1,14 @@
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\bin\Debug\netstandard2.0\WorkWithImage.deps.json
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\bin\Debug\netstandard2.0\WorkWithImage.dll
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\bin\Debug\netstandard2.0\ref\WorkWithImage.dll
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\bin\Debug\netstandard2.0\WorkWithImage.pdb
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\WorkWithImage.csprojAssemblyReference.cache
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\WorkWithImage.AssemblyInfoInputs.cache
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\WorkWithImage.AssemblyInfo.cs
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\WorkWithImage.csproj.CoreCompileInputs.cache
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\XamlC.stamp
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\WorkWithImage.dll
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\ref\WorkWithImage.dll
+D:\METAINT\XAMARIN\Lesson_004\WorkWithImage\WorkWithImage\obj\Debug\netstandard2.0\WorkWithImage.pdb
