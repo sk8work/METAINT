@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Layouts.Absolute_Layout">
+    <AbsoluteLayout>
+        <BoxView Color="LightBlue"
+                 AbsoluteLayout.LayoutBounds="70,70,200,70"/>
+
+        <Label Text="Заголовок" FontSize="Large" AbsoluteLayout.LayoutBounds="110,90,150,60"/>
+        <Label Text="Основное содержание текста" FontSize="Medium" AbsoluteLayout.LayoutBounds="70,150, AutoSize, AutoSize" />
+    </AbsoluteLayout>
+</ContentPage>

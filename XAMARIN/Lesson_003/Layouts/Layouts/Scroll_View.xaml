@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Layouts.Scroll_View"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+
+        <ScrollView>
+            <StackLayout>
+                <Label FontSize="23" Text="Метка 1" />
+                <Label FontSize="23" Text="Метка 2" />
+                <Label FontSize="23" Text="Метка 3" />
+                <Label FontSize="23" Text="Метка 4" />
+                <Label FontSize="23" Text="Метка 5" />
+                <Label FontSize="23" Text="Метка 6" />
+                <Label FontSize="23" Text="Метка 7" />
+                <Label FontSize="23" Text="Метка 8" />
+                <Label FontSize="23" Text="Метка 9" />
+                <Label FontSize="23" Text="Метка 10" />
+                <Label FontSize="23" Text="Метка 11" />
+                <Label FontSize="23" Text="Метка 12" />
+                <Label FontSize="23" Text="Метка 13" />
+                <Label FontSize="23" Text="Метка 14" />
+                <Label FontSize="23" Text="Метка 15" />
+                <Label FontSize="23" Text="Метка 16" />
+                <Label FontSize="23" Text="Метка 17" />
+                <Label FontSize="23" Text="Метка 18" />
+                <Label FontSize="23" Text="Метка 19" />
+                <Label FontSize="23" Text="Метка 20" />
+                <Label FontSize="23" Text="Метка 21" />
+                <Label FontSize="23" Text="Метка 22" />
+                <Label FontSize="23" Text="Метка 23" />
+                <Label FontSize="23" Text="Метка 24" />
+                <Label FontSize="23" Text="Метка 25" />
+                <Label FontSize="23" Text="Метка 26" />
+                <Label FontSize="23" Text="Метка 27" />
+                <Label FontSize="23" Text="Метка 28" />
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

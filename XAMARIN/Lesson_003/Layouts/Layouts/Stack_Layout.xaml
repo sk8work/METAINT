@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Layouts.Stack_Layout"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <StackLayout
+            x:Name="stackLayout"
+            Orientation="Horizontal"
+            Spacing="8">
+            <Label
+                Margin="5"
+                Text="Point 1"
+                TextColor="Red" />
+            <Label
+                Margin="5"
+                Text="Point 2"
+                TextColor="Blue" />
+            <Label
+                Margin="5"
+                Text="Point 3"
+                TextColor="Green" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
