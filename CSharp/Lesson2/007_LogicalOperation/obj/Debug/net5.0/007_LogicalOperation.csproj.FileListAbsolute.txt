@@ -1,0 +1,16 @@
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\007_LogicalOperation.exe
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\007_LogicalOperation.deps.json
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\007_LogicalOperation.runtimeconfig.json
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\007_LogicalOperation.runtimeconfig.dev.json
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\007_LogicalOperation.dll
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\ref\007_LogicalOperation.dll
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\bin\Debug\net5.0\007_LogicalOperation.pdb
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.csprojAssemblyReference.cache
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.AssemblyInfoInputs.cache
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.AssemblyInfo.cs
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.csproj.CoreCompileInputs.cache
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.dll
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\ref\007_LogicalOperation.dll
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.pdb
+D:\METAINT\CSharp\Lesson2\007_LogicalOperation\obj\Debug\net5.0\007_LogicalOperation.genruntimeconfig.cache
