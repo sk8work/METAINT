@@ -22,5 +22,11 @@ namespace Date_Time
                 label.Text = "Вы выбрали " + e.NewDate.ToString("dd/MM/yyyy");
             }
         }
+
+        private void timePicker_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            if (e.PropertyName == "Time")
+                TimeLabel.Text = "Вы выбрали" + timePicker.Time;
+        }
     }
 }
